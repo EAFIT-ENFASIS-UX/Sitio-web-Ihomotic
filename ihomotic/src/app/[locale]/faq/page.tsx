@@ -1,0 +1,29 @@
+import type { Metadata } from 'next'
+import { getTranslations } from 'next-intl/server'
+import { generatePageMetadata } from '@/lib/metadata'
+import { Faq } from '@/components/sections/Faq'
+import { CtaBanner } from '@/components/sections/CtaBanner'
+
+type Props = {
+  params: Promise<{ locale: string }>
+}
+
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const { locale } = await params
+  const t = await getTranslations({ locale, namespace: 'metadata.faq' })
+  return generatePageMetadata({
+    title: t('title'),
+    description: t('description'),
+    path: '/faq',
+    locale,
+  })
+}
+
+export default function FaqPage() {
+  return (
+    <>
+      <Faq />
+      <CtaBanner />
+    </>
+  )
+}

@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  /* Colores IHomotic — extraídos del logo oficial */
+  --color-brand-green: #3CB54A;
+  --color-brand-orange: #F7941D;
+  --color-brand-navy: #1B2A4A;
+  --color-brand-light: #F4FAF5;
+
+  /* Tipografía */
+  --font-heading: 'Syne', sans-serif;
+  --font-body: 'DM Sans', sans-serif;
+}

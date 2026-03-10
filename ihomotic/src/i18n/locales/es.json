@@ -1,0 +1,272 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Nosotros",
+    "services": "Servicios",
+    "projects": "Proyectos",
+    "faq": "Preguntas frecuentes",
+    "blog": "Blog",
+    "contact": "Contacto",
+    "sub_services": {
+      "home_automation": "Automatización del Hogar",
+      "smart_lighting": "Iluminación Inteligente",
+      "security_cctv": "Seguridad y CCTV"
+    }
+  },
+  "hero": {
+    "badge": "Soluciones de domótica",
+    "title": "Tecnología inteligente para hogares sostenibles",
+    "subtitle": "Transformamos espacios con automatización avanzada, eficiencia energética y soluciones IoT de última generación para un estilo de vida más cómodo y sostenible.",
+    "cta_primary": "Ver servicios",
+    "cta_secondary": "Contáctanos"
+  },
+  "services": {
+    "title": "Nuestros Servicios",
+    "subtitle": "Soluciones integrales de domótica para hogares y empresas, diseñadas para maximizar la eficiencia y el confort.",
+    "items": {
+      "home_automation": {
+        "title": "Automatización del Hogar",
+        "description": "Controla todos los sistemas de tu hogar desde una sola plataforma. Iluminación, climatización, persianas y electrodomésticos integrados de forma inteligente."
+      },
+      "smart_lighting": {
+        "title": "Iluminación Inteligente",
+        "description": "Sistemas de iluminación adaptativos que ajustan intensidad y color según la hora del día, presencia y preferencias personales para máximo confort."
+      },
+      "security_cctv": {
+        "title": "Seguridad y CCTV",
+        "description": "Vigilancia 24/7 con cámaras HD, sensores de movimiento, alarmas inteligentes y control de acceso remoto para la tranquilidad de tu familia."
+      },
+      "energy_saving": {
+        "title": "Ahorro Energético",
+        "description": "Optimiza el consumo energético con sensores inteligentes, termostatos programables y monitoreo en tiempo real para reducir tu huella de carbono."
+      },
+      "voice_control": {
+        "title": "Control por Voz",
+        "description": "Integración completa con Alexa, Google Home y Siri. Controla tu hogar con comandos de voz naturales sin necesidad de tocar un dispositivo."
+      },
+      "iot_integration": {
+        "title": "Integración IoT",
+        "description": "Conectamos todos tus dispositivos inteligentes en un ecosistema unificado. Desde sensores hasta electrodomésticos, todo trabajando en armonía."
+      }
+    }
+  },
+  "about": {
+    "title": "Sobre Nosotros",
+    "subtitle": "Liderando la transformación digital del hogar con soluciones sostenibles e innovadoras.",
+    "description": "En IHomotic nos dedicamos a crear espacios inteligentes que mejoran la calidad de vida. Con años de experiencia en el sector de la domótica, ofrecemos soluciones personalizadas que combinan tecnología de vanguardia con un compromiso firme por la sostenibilidad.",
+    "values_title": "Nuestros Valores",
+    "values": {
+      "innovation": "Innovación constante en tecnología del hogar",
+      "sustainability": "Compromiso con la sostenibilidad ambiental",
+      "quality": "Calidad superior en cada instalación",
+      "support": "Soporte técnico dedicado 24/7"
+    },
+    "stats": {
+      "projects": "Proyectos",
+      "projects_value": "350+",
+      "clients": "Clientes Satisfechos",
+      "clients_value": "500+",
+      "experience": "Años de Experiencia",
+      "experience_value": "12+",
+      "cities": "Ciudades",
+      "cities_value": "25+"
+    },
+    "team_title": "Nuestro Equipo",
+    "team": {
+      "member1": { "name": "Carlos Rodríguez", "role": "Director General" },
+      "member2": { "name": "Ana Martínez", "role": "Directora Técnica" },
+      "member3": { "name": "Miguel Sánchez", "role": "Jefe de Proyectos" },
+      "member4": { "name": "Laura Torres", "role": "Diseñadora UX" }
+    }
+  },
+  "projects": {
+    "title": "Nuestros Proyectos",
+    "subtitle": "Descubre cómo hemos transformado espacios con soluciones de domótica inteligente.",
+    "filter_all": "Todos",
+    "filter_residential": "Residencial",
+    "filter_commercial": "Comercial",
+    "filter_industrial": "Industrial",
+    "items": {
+      "smart_villa": { "description": "Automatización completa de villa de lujo con control de iluminación, climatización y seguridad integrada." },
+      "corporate_hq": { "description": "Sistema integral de gestión de edificio inteligente con eficiencia energética y control de acceso avanzado." },
+      "eco_apartment": { "description": "Complejo residencial ecológico con paneles solares integrados y gestión inteligente de energía." },
+      "smart_retail": { "description": "Tienda inteligente con iluminación adaptativa, control de clima y sistema de seguridad automatizado." },
+      "luxury_penthouse": { "description": "Penthouse de lujo con automatización completa, cine en casa y sistema de audio multi-zona." },
+      "smart_warehouse": { "description": "Almacén automatizado con sensores IoT, control de temperatura y sistema de logística inteligente." }
+    }
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "subtitle": "Respuestas a las consultas más comunes sobre nuestros servicios de domótica.",
+    "items": {
+      "q1": {
+        "question": "¿Qué es la domótica y cómo puede beneficiar mi hogar?",
+        "answer": "La domótica es la automatización inteligente del hogar que permite controlar iluminación, climatización, seguridad y electrodomésticos desde una app o por voz. Beneficia tu hogar al mejorar el confort, aumentar la seguridad, reducir el consumo energético hasta un 30% y elevar el valor de la propiedad."
+      },
+      "q2": {
+        "question": "¿Cuánto cuesta instalar un sistema de domótica?",
+        "answer": "El costo varía según el alcance del proyecto. Un sistema básico de iluminación inteligente puede comenzar desde $2,000, mientras que una automatización completa del hogar puede ir de $10,000 a $50,000 dependiendo del tamaño y las funcionalidades deseadas. Ofrecemos presupuestos personalizados sin compromiso."
+      },
+      "q3": {
+        "question": "¿Es posible automatizar una casa ya construida?",
+        "answer": "Sí, la mayoría de nuestras soluciones son retrofit, lo que significa que se pueden instalar en viviendas existentes sin necesidad de obras mayores. Utilizamos tecnologías inalámbricas como Zigbee, Z-Wave y WiFi que minimizan la intervención estructural."
+      },
+      "q4": {
+        "question": "¿Qué marcas y protocolos de domótica utilizan?",
+        "answer": "Trabajamos con las marcas líderes del mercado como KNX, Lutron, Control4, Crestron y Savant. También integramos dispositivos de ecosistemas populares como Apple HomeKit, Google Home y Amazon Alexa para ofrecer la máxima compatibilidad."
+      },
+      "q5": {
+        "question": "¿Cuánto tiempo tarda la instalación de un sistema completo?",
+        "answer": "Una instalación básica puede completarse en 2-3 días. Para proyectos más complejos como automatización completa de una vivienda, el tiempo promedio es de 2 a 4 semanas, incluyendo la configuración y programación personalizada de todos los sistemas."
+      },
+      "q6": {
+        "question": "¿Puedo controlar mi casa desde el teléfono cuando no estoy?",
+        "answer": "Absolutamente. Todos nuestros sistemas incluyen acceso remoto seguro a través de aplicaciones móviles. Puedes monitorear cámaras de seguridad, ajustar la temperatura, encender luces y recibir alertas en tiempo real desde cualquier lugar del mundo."
+      },
+      "q7": {
+        "question": "¿Qué pasa si se va la luz o el internet?",
+        "answer": "Nuestros sistemas están diseñados con redundancia. En caso de corte eléctrico, los dispositivos críticos como cerraduras y alarmas cuentan con baterías de respaldo. Si se pierde la conexión a internet, los dispositivos locales siguen funcionando con automatizaciones programadas."
+      },
+      "q8": {
+        "question": "¿Ofrecen servicio de mantenimiento y soporte técnico?",
+        "answer": "Sí, ofrecemos planes de mantenimiento preventivo y soporte técnico 24/7. Nuestro equipo puede diagnosticar y resolver la mayoría de problemas de forma remota, y contamos con técnicos disponibles para visitas presenciales cuando sea necesario."
+      }
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Noticias, tendencias y consejos sobre domótica, eficiencia energética y hogar inteligente.",
+    "read_more": "Leer más",
+    "related_posts": "Posts Relacionados",
+    "posts": {
+      "future_smart_homes": {
+        "title": "El futuro de los hogares inteligentes en 2026",
+        "excerpt": "Descubre las tendencias más importantes que están definiendo el futuro de la domótica y cómo impactarán tu vida diaria.",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\nSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit."
+      },
+      "energy_efficiency": {
+        "title": "Guía completa de eficiencia energética para tu hogar",
+        "excerpt": "Aprende cómo la domótica puede reducir tu consumo energético hasta un 30% con estos consejos prácticos.",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\n\nExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium."
+      },
+      "smart_security": {
+        "title": "Seguridad inteligente: protege tu hogar con tecnología",
+        "excerpt": "Todo lo que necesitas saber sobre los sistemas de seguridad inteligentes y cómo elegir el mejor para tu hogar.",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      },
+      "voice_assistants": {
+        "title": "Asistentes de voz: la revolución del control domótico",
+        "excerpt": "Cómo los asistentes de voz están cambiando la forma en que interactuamos con nuestros hogares inteligentes.",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      },
+      "iot_trends": {
+        "title": "Tendencias IoT que transformarán tu hogar en 2026",
+        "excerpt": "Las tecnologías IoT más prometedoras y cómo se integran en los sistemas de domótica modernos.",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      },
+      "sustainable_living": {
+        "title": "Vida sostenible: automatización para un futuro verde",
+        "excerpt": "Descubre cómo la automatización del hogar contribuye a un estilo de vida más sostenible y respetuoso con el medio ambiente.",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      }
+    }
+  },
+  "contact": {
+    "title": "Contacto",
+    "subtitle": "¿Tienes un proyecto en mente? Cuéntanos y te ayudaremos a hacerlo realidad.",
+    "form": {
+      "name": "Nombre completo",
+      "email": "Correo electrónico",
+      "phone": "Teléfono",
+      "subject": "Asunto",
+      "message": "Mensaje",
+      "name_placeholder": "Tu nombre",
+      "email_placeholder": "tu@email.com",
+      "phone_placeholder": "+1 (555) 000-0000",
+      "subject_placeholder": "¿En qué te podemos ayudar?",
+      "message_placeholder": "Cuéntanos sobre tu proyecto..."
+    },
+    "validation": {
+      "name_required": "El nombre es obligatorio",
+      "email_required": "El correo es obligatorio",
+      "email_invalid": "Ingresa un correo válido",
+      "subject_required": "El asunto es obligatorio",
+      "message_required": "El mensaje es obligatorio",
+      "message_min": "El mensaje debe tener al menos 10 caracteres"
+    },
+    "info": {
+      "title": "Información de Contacto",
+      "address": "Dirección",
+      "phone": "Teléfono",
+      "email": "Correo electrónico"
+    }
+  },
+  "testimonials": {
+    "title": "Lo que dicen nuestros clientes",
+    "subtitle": "Testimonios reales de clientes satisfechos con nuestras soluciones de domótica.",
+    "items": {
+      "maria": {
+        "content": "IHomotic transformó nuestra casa por completo. El sistema de automatización es intuitivo y nos ha ayudado a reducir el consumo de energía significativamente. El equipo fue profesional y atento en todo momento."
+      },
+      "james": {
+        "content": "Implementamos las soluciones de IHomotic en nuestras oficinas corporativas y el resultado fue excepcional. La eficiencia energética mejoró un 40% y el control de acceso es impecable."
+      },
+      "ana": {
+        "content": "Como arquitecta, he colaborado con IHomotic en varios proyectos. Su capacidad para integrar tecnología de forma elegante y funcional es sobresaliente. Los recomiendo ampliamente."
+      }
+    }
+  },
+  "footer": {
+    "description": "Soluciones de domótica sostenibles y eficientes para hogares y empresas. Transformamos espacios con tecnología inteligente.",
+    "services_title": "Servicios",
+    "company_title": "Empresa",
+    "legal_title": "Legal",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "cookies": "Política de Cookies"
+  },
+  "cta_banner": {
+    "title": "¿Listo para hacer tu hogar inteligente?",
+    "subtitle": "Contáctanos hoy y recibe una consulta gratuita para tu proyecto de domótica.",
+    "button": "Solicitar consulta"
+  },
+  "common": {
+    "read_more": "Leer más",
+    "view_all": "Ver todos",
+    "send": "Enviar",
+    "loading": "Enviando...",
+    "success": "Mensaje enviado correctamente",
+    "error": "Hubo un error, intenta de nuevo",
+    "skip_to_content": "Ir al contenido principal"
+  },
+  "metadata": {
+    "home": {
+      "title": "Inicio",
+      "description": "IHomotic — Soluciones de domótica sostenibles y eficientes. Automatización del hogar, iluminación inteligente, seguridad y más."
+    },
+    "about": {
+      "title": "Nosotros",
+      "description": "Conoce a IHomotic: empresa líder en soluciones de domótica sostenible e inteligente. Años de experiencia transformando hogares."
+    },
+    "services": {
+      "title": "Servicios",
+      "description": "Servicios de domótica: automatización del hogar, iluminación inteligente, seguridad CCTV, ahorro energético, control por voz e integración IoT."
+    },
+    "projects": {
+      "title": "Proyectos",
+      "description": "Descubre nuestros proyectos de domótica: instalaciones residenciales, comerciales e industriales que demuestran nuestra experiencia."
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "description": "Respuestas a las preguntas más comunes sobre domótica, instalación, costos y mantenimiento de sistemas inteligentes."
+    },
+    "blog": {
+      "title": "Blog",
+      "description": "Blog de IHomotic: noticias, tendencias y consejos sobre domótica, eficiencia energética y hogar inteligente."
+    },
+    "contact": {
+      "title": "Contacto",
+      "description": "Contacta con IHomotic para tu proyecto de domótica. Consulta gratuita, presupuesto personalizado y soporte técnico."
+    }
+  }
+}

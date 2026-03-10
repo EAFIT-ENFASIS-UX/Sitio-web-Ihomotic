@@ -1,0 +1,17 @@
+# IHomotic
+
+IHomotic is a home automation company specializing in sustainable and efficient smart home solutions.
+
+## Services
+- Home Automation
+- Smart Lighting
+- Security & CCTV
+- Energy Saving
+- Voice Control
+- IoT Integration
+
+## Contact
+- Website: https://ihomotic.com
+- Email: info@ihomotic.com
+- Phone: +1 (555) 123-4567
+- Address: 123 Innovation Drive, Smart City, SC 10001
