@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { z } from 'zod'
-import { resend } from '@/lib/resend'
+import { Resend } from 'resend'
 
 const contactSchema = z.object({
   name: z.string().min(1),
@@ -53,6 +53,10 @@ export async function POST(request: NextRequest) {
     }
 
     const { name, email, phone, subject, message } = result.data
+
+    // Resend se inicializa aquí adentro para evitar errores en el build
+    // cuando la variable de entorno aún no está configurada
+    const resend = new Resend(process.env.RESEND_API_KEY)
 
     await resend.emails.send({
       from: 'IHomotic Contact <onboarding@resend.dev>',
